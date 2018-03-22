@@ -4,6 +4,7 @@ Get complement sequence and reverse sequence of your DNA sequence.
 
 ## Installation 
 library(devtools)
+
 install_github("lrjoshi/RevcomR")
 
 ## Description
