@@ -29,7 +29,7 @@ x	: your DNA string provided inside quote (" ") sign. See Example.
 
 ## Note
 
-Be careful about reverse and reverse complement. To get the reverse complement you will have to get the complement of your sequence and then you can use the output of the >mycomplement function to get the reverse complement using >reverse function.
+Be careful about reverse and reverse complement. To get the reverse complement you will have to get the complement of your sequence and then you can use the output of the ">mycomplement" function to get the reverse complement using ">reverse" function.
 
 ## Examples
 
