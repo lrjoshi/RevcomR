@@ -1,0 +1,10 @@
+Package: RevcomR
+Type: Package
+Title: Complement and Reverse Sequence of DNA
+Version: 0.1.0
+Author: Lok Raj Joshi
+Maintainer: The package maintainer <lok.joshi@sdstate.edu>
+Description: Returns complement and reverse sequence of the given DNA sequence
+License: 
+Encoding: UTF-8
+LazyData: true
