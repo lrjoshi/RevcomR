@@ -20,6 +20,7 @@ This package performs three functions
 ## Usage
 
 mycomplement (x)
+
 reverse(x)
 
 ## Arguments
@@ -33,7 +34,12 @@ Be careful about reverse and reverse complement. To get the reverse complement y
 ## Examples
 
 > library(RevcomR)
+
 > mycomplement("agtc")
+
 [1] "The complement sequence is:- TCAC"
+
+
 > reverse("aag")
+
 [1] "Reverse of your sequence is :- gaa"
