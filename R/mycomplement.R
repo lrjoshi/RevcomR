@@ -15,7 +15,7 @@ mycomplement <-function (d){
       complement1 =as.character("A")
       
     }else if (substring (d,i,i)=="C"){
-      complement1 =as.character ("C")
+      complement1 =as.character ("G")
     }else {
       stop (paste("There is something wrong in your sequence.Check again."))
     }
